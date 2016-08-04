@@ -1,0 +1,25 @@
+_repo: A-Biography-of-Sidney-Lanier_1224
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mims, Edwin
+    birthdate: 1872
+    deathdate: 1959
+    gutenberg_agent_id: '560'
+    url: http://www.gutenberg.org/2009/agents/560
+description: ''
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lanier, Sidney, 1842-1881'
+- !lcc 'PS'
+- !lcsh 'Poets, American -- 19th century -- Biography'
+- GITenberg
+title: Sidney Lanier
+url: http://www.gutenberg.org/ebooks/1224
